@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Hi there! <br />This is a QR code generator app.</h1>
+      <h1>Hi there! <br />This is a QR code generator app designed by Abraham Ajetomobi.</h1>
       <input
         type="text"
         placeholder="e.g. https://google.com"
