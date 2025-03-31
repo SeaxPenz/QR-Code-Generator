@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  text-align: center;
+  background-color: #050d6b;
+  color: rgb(255, 213, 45);
+}
+
+.app {
+  padding: 2rem 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+input {
+  appearance: none;
+  outline: none;
+  border: none;
+  background: #EEE;
+  width: 50%;
+  max-width: 50%;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+}
+
+button {
+  appearance: none;
+  outline: none;
+  border: none;
+  background: #0c2cdf;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 1rem;
+  display: block;
+  margin: auto;
+  padding: auto;
+}
